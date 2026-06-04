@@ -242,14 +242,10 @@ API testing was performed using:
 
 ---
 
-# Future Improvements
+# Next Steps
 
-- Password Reset via Email
-- Rate Limiting
-- OAuth Authentication (Google/GitHub)
-- Role-Based Access Control (RBAC)
-- Docker Support
-- API Documentation using Swagger
+- (Phase-2 , branch-"The Breach") Hacking my own authentication system to highlight potential flaws in current system .
+- (Phase-3 , branch-"The Solution") Solution proposed to the current problem .
 
 ---
 
